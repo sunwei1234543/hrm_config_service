@@ -3,7 +3,6 @@ server:
 spring:
   application:
     name: ZUUL-GATEWAY
-
 zuul:
   routes:
     sysmanage.serviceId: hrm-sysmanage # 服务名
