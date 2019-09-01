@@ -11,3 +11,4 @@ spring:
 mybatis-plus:
   mapper-locations: classpath:cn/itsource/hrm/mapper/*Mapper.xml
   type-aliases-package: cn.itsource.hrm.domain,cn.itsource.hrm.query
+
