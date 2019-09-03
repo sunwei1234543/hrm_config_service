@@ -1,4 +1,4 @@
-server: 
+﻿server: 
   port: 9002
 spring: 
   application: 
@@ -9,5 +9,5 @@ spring:
       username: root
       password: 12345678
 mybatis-plus: 
-  mapper-locations: classpath:cn/itsource/hrm/mapper/*Mapper.xml
-  type-aliases-package: cn.itsource.hrm.domain,cn.itsource.hrm.query
+  mapper-locations: classpath:com/sunwei/hrm/mapper/*Mapper.xml
+  type-aliases-package: com.sunwei.hrm.domain,com.sunwei.hrm.query
